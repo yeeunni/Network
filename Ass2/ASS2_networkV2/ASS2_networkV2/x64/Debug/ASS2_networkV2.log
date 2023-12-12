@@ -1,0 +1,25 @@
+﻿  networkV2.c
+C:\Users\USER\source\repos\ASS2_networkV2\ASS2_networkV2\networkV2.c(105,9): warning C4013: 'tolayer3'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\USER\source\repos\ASS2_networkV2\ASS2_networkV2\networkV2.c(106,9): warning C4013: 'starttimer'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\USER\source\repos\ASS2_networkV2\ASS2_networkV2\networkV2.c(165,13): warning C4013: 'stoptimer'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\USER\source\repos\ASS2_networkV2\ASS2_networkV2\networkV2.c(169,9): warning C4013: 'tolayer5'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\USER\source\repos\ASS2_networkV2\ASS2_networkV2\networkV2.c(366,10): warning C4101: 'c' :참조되지 않은 지역 변수입니다.
+C:\Users\USER\source\repos\ASS2_networkV2\ASS2_networkV2\networkV2.c(464,15): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\source\repos\ASS2_networkV2\ASS2_networkV2\networkV2.c(490,16): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\source\repos\ASS2_networkV2\ASS2_networkV2\networkV2.c(512,26): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\source\repos\ASS2_networkV2\ASS2_networkV2\networkV2.c(504,9): warning C4101: 'tempint' :참조되지 않은 지역 변수입니다.
+C:\Users\USER\source\repos\ASS2_networkV2\ASS2_networkV2\networkV2.c(503,11): warning C4101: 'ttime' :참조되지 않은 지역 변수입니다.
+C:\Users\USER\source\repos\ASS2_networkV2\ASS2_networkV2\networkV2.c(562,9): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\USER\source\repos\ASS2_networkV2\ASS2_networkV2\networkV2.c(601,13): warning C4033: 'stoptimer'은(는) 값을 반환해야 합니다.
+C:\Users\USER\source\repos\ASS2_networkV2\ASS2_networkV2\networkV2.c(616,19): warning C4142: 'malloc': 형식이 재정의되었지만 심각하지는 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_malloc.h(101): message : 'malloc' 선언을 참조하십시오.
+C:\Users\USER\source\repos\ASS2_networkV2\ASS2_networkV2\networkV2.c(625,13): warning C4033: 'starttimer'은(는) 값을 반환해야 합니다.
+C:\Users\USER\source\repos\ASS2_networkV2\ASS2_networkV2\networkV2.c(631,26): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\source\repos\ASS2_networkV2\ASS2_networkV2\networkV2.c(646,19): warning C4142: 'malloc': 형식이 재정의되었지만 심각하지는 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_malloc.h(101): message : 'malloc' 선언을 참조하십시오.
+C:\Users\USER\source\repos\ASS2_networkV2\ASS2_networkV2\networkV2.c(658,9): warning C4033: 'tolayer3'은(는) 값을 반환해야 합니다.
+C:\Users\USER\source\repos\ASS2_networkV2\ASS2_networkV2\networkV2.c(605): warning C4716: 'stoptimer': 값을 반환해야 합니다.
+C:\Users\USER\source\repos\ASS2_networkV2\ASS2_networkV2\networkV2.c(636): warning C4716: 'starttimer': 값을 반환해야 합니다.
+C:\Users\USER\source\repos\ASS2_networkV2\ASS2_networkV2\networkV2.c(707): warning C4716: 'tolayer3': 값을 반환해야 합니다.
+C:\Users\USER\source\repos\ASS2_networkV2\ASS2_networkV2\networkV2.c(720): warning C4716: 'tolayer5': 값을 반환해야 합니다.
+  ASS2_networkV2.vcxproj -> C:\Users\USER\source\repos\ASS2_networkV2\x64\Debug\ASS2_networkV2.exe
